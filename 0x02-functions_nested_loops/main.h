@@ -13,4 +13,7 @@ int _islower(int c);
 /*Prototype to check for lowercase characters*/
 int _isalpha(int c);
 /*Prototype to check for alphabets*/
+
+int print_sign(int n);
+/*Prototype to check the sign of an integer*/
 #endif
