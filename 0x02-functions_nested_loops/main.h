@@ -8,4 +8,7 @@ void print_alphabet(void);
 
 void print_alphabet_x10(void);
 /*Prototype for print_alphabet_x10 function*/
+
+int _islower(int c);
+/*Prototype to check for lowercase characters*/
 #endif
