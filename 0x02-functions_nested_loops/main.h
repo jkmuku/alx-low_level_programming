@@ -19,4 +19,7 @@ int print_sign(int n);
 
 int _abs(int n);
 /*Prototype to get the absolute value of any number*/
+
+int print_last_digit(int n);
+/*Prototype to get last digit of a number*/
 #endif
