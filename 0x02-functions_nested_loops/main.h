@@ -22,4 +22,7 @@ int _abs(int n);
 
 int print_last_digit(int n);
 /*Prototype to get last digit of a number*/
+
+void jack_bauer(void);
+/*Prototype to print the every time of a day*/
 #endif
