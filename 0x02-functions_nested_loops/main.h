@@ -16,4 +16,7 @@ int _isalpha(int c);
 
 int print_sign(int n);
 /*Prototype to check the sign of an integer*/
+
+int _abs(int n);
+/*Prototype to get the absolute value of any number*/
 #endif
