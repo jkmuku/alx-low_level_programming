@@ -25,4 +25,7 @@ int print_last_digit(int n);
 
 void jack_bauer(void);
 /*Prototype to print the every time of a day*/
+
+void times_table(void);
+/*Prototype to print the 9 times table*/
 #endif
