@@ -11,4 +11,7 @@ int _isdigit(int c);
 
 int mul(int a, int b);
 /*Prototype to multiply two digits*/
+
+void print_numbers(void);
+/*Prototype numbers from 0 to 9*/
 #endif
