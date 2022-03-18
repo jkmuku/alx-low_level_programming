@@ -5,4 +5,7 @@ int _putchar(char c);
 
 int _isupper(int c);
 /*Prototype to check for upper case*/
+
+int _isdigit(int c);
+/*Prototype to check for digit*/
 #endif
