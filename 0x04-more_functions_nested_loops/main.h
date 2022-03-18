@@ -8,4 +8,7 @@ int _isupper(int c);
 
 int _isdigit(int c);
 /*Prototype to check for digit*/
+
+int mul(int a, int b);
+/*Prototype to multiply two digits*/
 #endif
