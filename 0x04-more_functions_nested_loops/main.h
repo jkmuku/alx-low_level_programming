@@ -14,4 +14,7 @@ int mul(int a, int b);
 
 void print_numbers(void);
 /*Prototype numbers from 0 to 9*/
+
+void print_most_numbers(void);
+/*Prototype to print some given numbers*/
 #endif
