@@ -20,4 +20,7 @@ void print_most_numbers(void);
 
 void more_numbers(void);
 /*Protype to print 1 to 14, 10 times*/
+
+void print_line(int n);
+/*Prototype to print n number of underscores*/
 #endif
