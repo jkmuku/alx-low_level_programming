@@ -23,4 +23,7 @@ void more_numbers(void);
 
 void print_line(int n);
 /*Prototype to print n number of underscores*/
+
+void print_diagonal(int n);
+/*Prototype to print n number of diagonal lines*/
 #endif
