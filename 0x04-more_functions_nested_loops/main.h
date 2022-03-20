@@ -26,4 +26,7 @@ void print_line(int n);
 
 void print_diagonal(int n);
 /*Prototype to print n number of diagonal lines*/
+
+void print_square(int size);
+/*Prototype to form a square using # symbol*/
 #endif
