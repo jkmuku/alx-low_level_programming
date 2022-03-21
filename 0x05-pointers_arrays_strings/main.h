@@ -5,4 +5,7 @@ int _putchar(char c);
 
 void reset_to_98(int *n);
 /*Prototype for update the value of an integer a pointer points to*/
+
+void swap_int(int *a, int *b);
+/*Prototype to swap values of integer that have pointers*/
 #endif
