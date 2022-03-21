@@ -11,4 +11,7 @@ void swap_int(int *a, int *b);
 
 int _strlen(char *s);
 /*Prototype for finding length of string*/
+
+void _puts(char *str);
+/*Prototype for printing string*/
 #endif
