@@ -20,4 +20,7 @@ void print_rev(char *s);
 
 void rev_string(char *s);
 /*Prototype for reverse string*/
+
+void puts2(char *str);
+/*Prototype for print every other char of a string*/
 #endif
