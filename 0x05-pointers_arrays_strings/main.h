@@ -8,4 +8,7 @@ void reset_to_98(int *n);
 
 void swap_int(int *a, int *b);
 /*Prototype to swap values of integer that have pointers*/
+
+int _strlen(char *s);
+/*Prototype for finding length of string*/
 #endif
