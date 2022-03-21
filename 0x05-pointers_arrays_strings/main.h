@@ -17,4 +17,7 @@ void _puts(char *str);
 
 void print_rev(char *s);
 /*Prototype to print string in reverse*/
+
+void rev_string(char *s);
+/*Prototype for reverse string*/
 #endif
