@@ -29,4 +29,7 @@ void print_diagonal(int n);
 
 void print_square(int size);
 /*Prototype to form a square using # symbol*/
+
+void print_triangle(int size);
+/*Prototype to print triangle*/
 #endif
