@@ -14,4 +14,7 @@ int _strlen(char *s);
 
 void _puts(char *str);
 /*Prototype for printing string*/
+
+void print_rev(char *s);
+/*Prototype to print string in reverse*/
 #endif
