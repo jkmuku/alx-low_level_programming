@@ -26,4 +26,7 @@ void puts2(char *str);
 
 void puts_half(char *str);
 /*Prototype for printing half of a string*/
+
+void print_array(int *a, int n);
+/*Prototype to print n numbers of an array of integers*/
 #endif
