@@ -29,4 +29,7 @@ void puts_half(char *str);
 
 void print_array(int *a, int n);
 /*Prototype to print n numbers of an array of integers*/
+
+char *_strcpy(char *dest, char *src);
+/*Prototype that copies string to a buffer*/
 #endif
