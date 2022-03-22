@@ -32,4 +32,7 @@ void print_array(int *a, int n);
 
 char *_strcpy(char *dest, char *src);
 /*Prototype that copies string to a buffer*/
+
+int _atoi(char *s);
+/*Prototype to convert a string to an integer*/
 #endif
