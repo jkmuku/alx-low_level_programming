@@ -23,4 +23,7 @@ void rev_string(char *s);
 
 void puts2(char *str);
 /*Prototype for print every other char of a string*/
+
+void puts_half(char *str);
+/*Prototype for printing half of a string*/
 #endif
