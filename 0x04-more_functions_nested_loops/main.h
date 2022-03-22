@@ -32,4 +32,7 @@ void print_square(int size);
 
 void print_triangle(int size);
 /*Prototype to print triangle*/
+
+void print_number(int n);
+/*Prototype to print numbers*/
 #endif
