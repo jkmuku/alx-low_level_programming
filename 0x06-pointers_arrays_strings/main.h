@@ -26,4 +26,7 @@ char *cap_string(char *);
 
 char *leet(char *);
 /*Prototype for string encryption*/
+
+char *rot13(char *);
+/*Prototype to encode a string*/
 #endif
