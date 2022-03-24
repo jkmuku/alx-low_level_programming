@@ -23,4 +23,7 @@ char *string_toupper(char *);char *string_toupper(char *);
 
 char *cap_string(char *);
 /*Prototype to capitalise all words of a string*/
+
+char *leet(char *);
+/*Prototype for string encryption*/
 #endif
