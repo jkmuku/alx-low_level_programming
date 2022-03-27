@@ -29,4 +29,6 @@ char *leet(char *);
 
 char *rot13(char *);
 /*Prototype to encode a string*/
+
+void print_number(int n);
 #endif
